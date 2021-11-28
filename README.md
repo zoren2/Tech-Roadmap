@@ -7,5 +7,7 @@ Another example is when I learn about MVC I would like to see how the ORM (the m
 
 This set of notes is represented by an Obsidian graph.
 
-Please check it out at [link text](https://github.com/obsidianmd/obsidian-releases)
+Please check Obsidian out at [link text](https://github.com/obsidianmd/obsidian-releases).
+
+
 
