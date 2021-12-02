@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Document Object Model (DOM).md",
+            "file": "CSS Grid.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Document Object Model (DOM).md",
+                "file": "CSS Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "335b7379d3290347",
   "lastOpenFiles": [
+    "CSS Grid.md",
     "Document Object Model (DOM).md",
     "README.md",
     "Public API.md",
@@ -96,7 +97,6 @@
     "DOM.md",
     "process.js.md",
     "ORM.md",
-    "Object Oriented Programming.md",
-    "XMLHttpRequest.md"
+    "Object Oriented Programming.md"
   ]
 }
