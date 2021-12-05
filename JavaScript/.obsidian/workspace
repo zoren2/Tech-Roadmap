@@ -7,11 +7,8 @@
         "id": "8faeabe134527c20",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Promise.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +84,12 @@
   },
   "active": "8faeabe134527c20",
   "lastOpenFiles": [
+    "Promises.md",
     "Promise.md",
     "Recursive DOM Traversal.md",
     "Generators.md",
     "yield.md",
     "Callback Function.md",
-    "Promises.md",
     "const.md",
     "block.md",
     "ES5.md",
