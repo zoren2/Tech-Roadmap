@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "664b09b7e74f247b",
+    "type": "split",
+    "children": [
+      {
+        "id": "335b7379d3290347",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "curried function.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c153fc637a9f8b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "820ee4759c4daed0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9f7549e88e2c2dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5872f830cfb4ffb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7660e20a3ce32df",
+    "type": "split",
+    "children": [
+      {
+        "id": "55681a79fc4dccf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eafa52c900364103",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "curried function.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "335b7379d3290347",
+  "lastOpenFiles": [
+    "curried function.md",
+    "CSS Grid.md",
+    "Document Object Model (DOM).md",
+    "README.md",
+    "Public API.md",
+    "CSS.md",
+    "C#.md",
+    "DOM.md",
+    "process.js.md",
+    "ORM.md"
+  ]
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Generator Recursive Demo</title>
+  <style>
+    li.pass{
+      color:green;
+    }
+    li.fail{
+      color:red;
+    }
+  </style>
+
+<div id="subtree">
+	<form>
+		<input type = "text">
+	</form>
+	<p>Paragraph</p>
+	<span>Span</span>
+</div>
+
+<li id="results"></li>
+
+<script>
+    function* DomTraversal(element) {
+        yield element;
+        element = element.firstElementChild;
+        while (element) {
+            yield* DomTraversal(element);
+            element = element.nextElementSibling;
+        }
+    }
+
+    const subTree = document.getElementById("subtree");
+    for(let element of DomTraversal(subtree))
+        assert (element !== null, element.nodeName)
+
+    function assert(value,desc){
+        var li = document.createElement("li");
+        li.className = value?"pass":"fail";
+        li.appendChild(document.createTextNode(desc));
+        document.getElementById("results").appendChild(li);
+    }
+</script>
