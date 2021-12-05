@@ -7,8 +7,11 @@
         "id": "8faeabe134527c20",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pyramid of doom.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "274402ef84c341ea",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pyramid of doom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "8faeabe134527c20",
   "lastOpenFiles": [
+    "pyramid of doom.md",
+    "Error Propagation.md",
     "Promises.md",
     "Promise.md",
     "Recursive DOM Traversal.md",
@@ -91,8 +98,6 @@
     "yield.md",
     "Callback Function.md",
     "const.md",
-    "block.md",
-    "ES5.md",
-    "let.md"
+    "block.md"
   ]
 }
