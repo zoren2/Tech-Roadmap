@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pyramid of doom.md",
+            "file": "TextDecoder.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "274402ef84c341ea",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pyramid of doom.md",
+                "file": "TextDecoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "8faeabe134527c20",
   "lastOpenFiles": [
+    "TextDecoder.md",
+    "WindowOrWorkerGlobalScope.md",
+    "Response Interface.md",
+    "executor.md",
+    "const.md",
+    "var.md",
+    "let.md",
     "pyramid of doom.md",
     "Error Propagation.md",
-    "Promises.md",
-    "Promise.md",
-    "Recursive DOM Traversal.md",
-    "Generators.md",
-    "yield.md",
-    "Callback Function.md",
-    "const.md",
-    "block.md"
+    "Promises.md"
   ]
 }
