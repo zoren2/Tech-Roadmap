@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TextDecoder.md",
+            "file": "DOMString.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TextDecoder.md",
+                "file": "DOMString.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8faeabe134527c20",
   "lastOpenFiles": [
-    "TextDecoder.md",
-    "WindowOrWorkerGlobalScope.md",
+    "DOMString.md",
+    "Decoder.md",
+    "Prototype.md",
+    "regular expressions.md",
+    "JSON.md",
+    "use strict.md",
     "Response Interface.md",
-    "executor.md",
-    "const.md",
-    "var.md",
-    "let.md",
     "pyramid of doom.md",
-    "Error Propagation.md",
-    "Promises.md"
+    "let.md",
+    "Generators.md"
   ]
 }
