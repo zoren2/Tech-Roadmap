@@ -1,6 +1,6 @@
 # isready
 
-GUI->Engine
+`GUI -> Engine`
 
 This command is used to synchronize the engine with the GUI.
 

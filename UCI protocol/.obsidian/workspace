@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "isready.md",
+            "file": "answer.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244
   },
   "right": {
     "id": "0dcd5c575db6c243",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "isready.md",
+                "file": "answer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,15 @@
   },
   "active": "f45982a2f4d5788a",
   "lastOpenFiles": [
-    "isready.md"
+    "answer.md",
+    "FEN.md",
+    "go.md",
+    "isready.md",
+    "position.md",
+    "quit.md",
+    "readyok.md",
+    "uci.md",
+    "move.md",
+    "setoption.md"
   ]
 }
