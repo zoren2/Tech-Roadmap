@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "46fda75011f2a541",
+    "type": "split",
+    "children": [
+      {
+        "id": "038977c0b57a70dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chessboard.js.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75b1865440ac72bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "56036f8b16a034a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "204ad302666ab91b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b165e28b3bbdd96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26f99d78efb4c043",
+    "type": "split",
+    "children": [
+      {
+        "id": "89b2f15451bc46b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a7a31eb7559e948",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chessboard.js.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "038977c0b57a70dd",
+  "lastOpenFiles": [
+    "Chessboard.js.md",
+    "onSnapEnd.md",
+    "onDrop.md",
+    "onDragStart.md"
+  ]
+}
