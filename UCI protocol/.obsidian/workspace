@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "answer.md",
-            "mode": "source"
+            "file": "go.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "answer.md",
+                "file": "go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "f45982a2f4d5788a",
   "lastOpenFiles": [
+    "go.md",
     "answer.md",
     "FEN.md",
-    "go.md",
     "isready.md",
+    "move.md",
     "position.md",
     "quit.md",
     "readyok.md",
-    "uci.md",
-    "move.md",
-    "setoption.md"
+    "setoption.md",
+    "uci.md"
   ]
 }
