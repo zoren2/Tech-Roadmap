@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        li.pass {
+            color: green;
+        }
+        li.fail {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <li id="results"></li>
+</body>
+<script>
+    const assert = (value, desc) => {
+        let newNode = document.createElement('li');
+        newNode.className = value?"pass":"fail";
+        newNode.appendChild(document.createTextNode(desc));
+        document.getElementById("results").appendChild(newNode);
+    };
+</script>
+</html>

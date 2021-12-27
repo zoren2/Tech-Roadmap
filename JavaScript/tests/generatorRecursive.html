@@ -11,7 +11,9 @@
       color:red;
     }
   </style>
+</head>
 
+<body>
 <div id="subtree">
 	<form>
 		<input type = "text">
@@ -21,6 +23,7 @@
 </div>
 
 <li id="results"></li>
+</body>
 
 <script>
     function* DomTraversal(element) {
@@ -43,3 +46,4 @@
         document.getElementById("results").appendChild(li);
     }
 </script>
+</html>
