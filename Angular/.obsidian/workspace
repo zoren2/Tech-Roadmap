@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "7415f250231f9f80",
+    "type": "split",
+    "children": [
+      {
+        "id": "2355b45ceee6764a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Angular Versioning.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7ebcc6ba0beecd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa13208582910da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72c905169c37a253",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d15980c627317f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91f5399ea6fb60df",
+    "type": "split",
+    "children": [
+      {
+        "id": "264d95fc61a31ba2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67b8dfeaba650ed7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Angular Versioning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2355b45ceee6764a",
+  "lastOpenFiles": [
+    "Angular Versioning.md",
+    "Angular Lifecycle.md",
+    "Data Binding.md",
+    "styleUrl.md",
+    "template.md",
+    "templateUrl.md",
+    "decorator.md"
+  ]
+}
