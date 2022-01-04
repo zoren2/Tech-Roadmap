@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "styleUrl.md",
+            "file": "ngClass.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "styleUrl.md",
+                "file": "ngClass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2355b45ceee6764a",
   "lastOpenFiles": [
+    "ngClass.md",
+    "ngStyle.md",
+    "ngModule.md",
+    "ngIf.md",
+    "Directive.md",
     "styleUrl.md",
-    "template.md",
-    "TypeScript.md",
-    "tsconfig.json.md",
-    "String Interpolation Syntax.md",
-    "Data Binding.md",
-    "declarations property.md",
-    "decorator.md",
     "module.md",
-    "ngModule.md"
+    "Local References.md",
+    "$event.md",
+    "template.md"
   ]
 }
