@@ -9,11 +9,8 @@ Use case:
 ```typescript
 
 @HostListener('mouseenter') mouseover(eventData: Event) {
-	this.renderer.setStyle
+	this.renderer.setStyle(this.elRef.nativeElement, 'background-color', 'blue', false, false)
 }
-
-
-
 ```
 
 #Tags 
